@@ -1,0 +1,11 @@
+.h1{
+    color: rgba(35, 36, 62, 0.93);
+}
+.h2{
+    color: dimgrey;
+}
+h1,h2{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}I reveve
